@@ -1,1 +1,1 @@
-# rsschool-cv
+https://yulbee.github.io/rsschool-cv/cv
