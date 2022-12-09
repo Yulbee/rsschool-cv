@@ -1,12 +1,13 @@
-**# Yuliya Ryzhykava**
+# Yuliya Ryzhykava
 
 ****************************
+
 ## Contacts
 
-### Phone: +375295609188
-### E-mail: koko_joko@rambler.ru
-### Telegram: https://t.me/Yulybee
-### GitHub: Yulbee
+#### Phone: +375295609188
+#### E-mail: koko_joko@rambler.ru
+#### Telegram: https://t.me/Yulybee
+#### GitHub: Yulbee
 
 ## Hard skills
 
