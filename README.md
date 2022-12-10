@@ -1,1 +1,1 @@
-https://yulbee.github.io/rsschool-cv/cv
+https://Yulbee.github.io/rsschool-cv/
