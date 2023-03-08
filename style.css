@@ -3,7 +3,7 @@
 }
 
 html {
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
 }
 
 body {
@@ -74,10 +74,10 @@ body {
   transition: .3s;
 }
 .code_example {
- background-color:white; 
+ background-color:white;
  color: black;
  position: relative;
-} 
+}
 p {
 color:#171515
 }
